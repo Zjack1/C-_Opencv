@@ -1,1 +1,1 @@
-# C-_Opencv
+Study C++ and Opencv in ENC
