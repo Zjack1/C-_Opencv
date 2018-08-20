@@ -2,3 +2,9 @@ Ubuntu16.04搭建GTX1080+CUDA9.0+cuDNN7.0.4+Tensorflow1.6.0环境
 https://blog.csdn.net/weixin_41864878/article/details/79621210
 
 
+Ubuntu 14.04 安装 CUDA 问题及解决
+Deb 安装包是个坑 (不要用这种方法！)
+
+https://www.cnblogs.com/gaowengang/p/6068788.html
+
+
